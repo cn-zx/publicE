@@ -1,6 +1,6 @@
 {
 	"name":"jstest",
-	"version":"0.1.3",
+	"version":"0.1.0",
 	"manifest_version":2,
 	"description":"撸梦想e卡号码",
 	"browser_action":{
